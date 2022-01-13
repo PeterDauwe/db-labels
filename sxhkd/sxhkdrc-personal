@@ -1,0 +1,14 @@
+#################################################################
+# PERSONAL KEYS
+#################################################################
+
+#Use pywal
+super + p
+    wal -t -e -i "$(< "${HOME}/.cache/wal/wal")"
+
+control + alt + n
+    discord    
+
+
+control + alt + x
+ xonotic-glx
