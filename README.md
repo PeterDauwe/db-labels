@@ -1,9 +1,9 @@
-# Leftwm-theme db-pywal
+# Leftwm-theme db-labels
 
 
 # Get the theme to implement in your system
 
-	git clone https://github.com/PeterDauwe/db-scifi
+	git clone https://github.com/PeterDauwe/db-labels
 
 
 # Changed some stuff in up !!!!!!!!!!!!!
